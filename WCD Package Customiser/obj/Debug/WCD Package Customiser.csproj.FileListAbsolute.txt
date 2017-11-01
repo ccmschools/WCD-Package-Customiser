@@ -1,0 +1,10 @@
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\bin\Debug\WCD Package Customiser.exe.config
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\bin\Debug\WCD Package Customiser.exe
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\bin\Debug\WCD Package Customiser.pdb
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\obj\Debug\WCD_Package_Customiser.frm_Main.resources
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\obj\Debug\WCD_Package_Customiser.Properties.Resources.resources
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\obj\Debug\WCD Package Customiser.csproj.GenerateResource.Cache
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\obj\Debug\WCD Package Customiser.csproj.CoreCompileInputs.cache
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\obj\Debug\WCD Package Customiser.exe
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\obj\Debug\WCD Package Customiser.pdb
+c:\users\admin.scott\source\repos\WCD Package Customiser\WCD Package Customiser\obj\Debug\WCD Package Customiser.csprojResolveAssemblyReference.cache
